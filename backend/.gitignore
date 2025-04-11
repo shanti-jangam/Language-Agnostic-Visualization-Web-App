@@ -1,0 +1,61 @@
+# Python virtual environment
+venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+coverage.xml
+*.cover
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.*
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Local development
+*.db
+*.sqlite3
+output/
+
+# Large files & ML models
+*.h5
+*.pkl
+*.model
+*.weights
+*.pt
+*.pth
+*.onnx
+*.mlmodel
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store 
