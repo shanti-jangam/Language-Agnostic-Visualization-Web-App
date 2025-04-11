@@ -141,7 +141,7 @@ Access the application at:
 - Backend API: http://localhost:8000
 
 ## Demo Video
-[Link to screen recording demonstrating the application]
+https://www.youtube.com/watch?v=W0tctNQXQ3w
 
 ## Prerequisites
 - Python 3.8+
