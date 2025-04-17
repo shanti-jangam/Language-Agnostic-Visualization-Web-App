@@ -1,9 +1,15 @@
+<div align="center">
+
 # Language Agnostic Visualization Web Application
+
+### [Demo Video](https://www.youtube.com/watch?v=W0tctNQXQ3w)
 
 ## Project Overview
 This web application provides a unified platform for creating data visualizations using either Python or R programming languages. Users can write and execute visualization code directly in the browser, making it easy to generate both static, interactive and 3D plots without switching between different environments.
 
 The application features a modern, user-friendly interface with a built-in code editor that supports syntax highlighting for both Python and R. Users can seamlessly switch between languages and visualization types (static, interactive, or 3D) while maintaining a consistent workflow. The backend handles the code execution in isolated environments, ensuring security while providing the full capabilities of popular visualization libraries like Matplotlib, Plotly, and ggplot2.
+
+</div>
 
 Key capabilities include:
 - Write and execute Python or R code in real-time
@@ -139,9 +145,6 @@ npm start
 Access the application at:
 - Frontend: http://localhost:3000
 - Backend API: http://localhost:8000
-
-## Demo Video
-https://www.youtube.com/watch?v=W0tctNQXQ3w
 
 ## Prerequisites
 - Python 3.8+
